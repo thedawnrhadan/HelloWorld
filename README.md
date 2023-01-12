@@ -1,6 +1,6 @@
 # Overview
 
-This is a Hello World program, which has been created to show how Python, Visual Code Studio, and GitHub collaborate together.
+This is a Hello World program, which has been created to show how Python, Visual Studio Code, and GitHub collaborate together.
 
 The software itself uses Python to print "Hello World". Visual Studio Code is used to edit, run the program, and then commit changes to GitHub. GitHub is used to store the files in a repository for the public to see.
 
