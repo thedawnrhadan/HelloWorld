@@ -1,23 +1,18 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This is a Hellow World program, which has been created to show how Python, Visual Code Studio, and GitHub collaborate together.
 
-{Provide a description of your software}
-
-{Describe your purpose for creating this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+The software itself uses Python to print "Hello World". Visual Studio Code is used to edit, run the program, and then commit changes to GitHub. GitHub is used to store the files in a repository for the public to see.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used}
+*Python 3.10.9 64-bit
+*Visual Studio Code
+*Git / GitHub
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Visual Studio Code](https://code.visualstudio.com/docs)
+* [Git and GitHub Introduction](https://www.w3schools.com/git/git_intro.asp?remote=github)
