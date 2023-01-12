@@ -8,9 +8,9 @@ The software itself uses Python to print "Hello World". Visual Studio Code is us
 
 # Development Environment
 
-*Python 3.10.9 64-bit
-*Visual Studio Code
-*Git / GitHub
+* Python 3.10.9 64-bit
+* Visual Studio Code
+* Git / GitHub
 
 # Useful Websites
 
